@@ -72,6 +72,33 @@ footer>ul {
     margin-left: 5vw;
 
 }
+@media screen and (max-width: 900px) {
+
+  .narrow {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .ribbon {
+    height: 10vh;
+    flex-wrap: wrap;
+    overflow-y: visible;
+  }
+
+  #we-support {
+    flex-direction: column;
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+
+  main>div {
+    flex-direction: column;
+    align-items: center;
+  }
+}
 
 #outsource h1 {
     font-size: 3rem;
