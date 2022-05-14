@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #193b5a;
+}
+
+.ribbon {
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    color: #8c8c8d;
+    font-weight: bold;
+}
+
+header>a>img {
+    height: 95%;
+}
+
+header>ul {
+    margin-left: 5vw;
+}
+
+.ribbon>ul>li {
+    margin-left: 3vw;
+}
+
+li {
+    display: inline;
+}
+
+footer {
+    background-color: #7bbac4;
+
+}
+
+footer>ul {
+    margin-left: 1rem;
+}
+
+#support {
+    background-image: url('./img/moskow.jpg');
+}
+
+#support,
+#support>div {
+    position: relative;
+    top: 50%;
+    text-align: center;
+    color: white;
+}
+
+#support>div>h1 {
+    margin-bottom: 1rem;
+}
+
+#support>div>* {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+#outsource {
+    background-image: url('./img/out.jpg');
+    display: flex;
+    align-items: center;
+}
+
+#outsource>div {
+    color: white;
+    margin-left: 5vw;
+
+}
+
+#outsource h1 {
+    font-size: 3rem;
+}
+
+#servises {
+    display: flex;
+}
+
+.narrow>* {
+    width: auto;
+    flex-grow: 1;
+    text-align: center;
+}
+
+#principles {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25vh;
+}
+
+#principles figure {
+    height: 20%;
+    margin-bottom: 1rem;
+}
+
+figcaption {
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+
+#principles p,
+main p {
+    color: #8c8c8d;
+}
+
+#principles>h1 {
+    width: 100%;
+}
+
+.wide {
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.narrow {
+    height: 45vh;
+}
+
+figure {
+    height: 90%;
+    margin-top: 1vh;
+}
+
+figure>img {
+    height: 80%;
+
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#servises>.subsection {
+    border: #7cbbc5 5px solid;
+
+}
+
+main {
+    width: 72%;
+}
+
+main>div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+#top-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2vh;
+    margin-bottom: 10vh;
+}
+
+main>div>div {
+    width: 50%;
+    text-align: center;
+    margin-bottom: 10vh;
+}
+
+#we-support {
+    display: flex;
+    justify-content: space-between;
+    width: 72%;
+    text-align: center;
+}
+
+#we-support h1 {
+    color: orange;
+    font-weight: lighter;
+    font-size: 2rem;
+}
