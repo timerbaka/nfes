@@ -17,6 +17,7 @@ header {
 
 header>a>img {
     height: 95%;
+    display: block;
 }
 
 header>ul {
