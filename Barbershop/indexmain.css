@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.music {
+    @apply basis-1/2 bg-center bg-cover bg-no-repeat;
+}
