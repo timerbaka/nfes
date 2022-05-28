@@ -16,3 +16,16 @@
 .align-center {
     align-items: center;
 }
+
+li {
+    /* display: inline; */
+    line-height: 10vh;
+}
+
+#page-2 p {
+    @apply my-4 font-light;
+}
+
+li:hover {
+    background-color: #117BFF;
+}
