@@ -9,9 +9,9 @@ Původně šlo o pět samostatných repozitářů. Spojil jsem je do jednoho, ab
 | Složka | Kdy | Co to je |
 | --- | --- | --- |
 | [`nfes-html-test/`](nfes-html-test/) | listopad 2021 | Závěrečný úkol ze základů HTML: tři propojené stránky (kočky a psi) s tabulkami, seznamy, obrázky a faviconou. |
-| [`nfes_homeworks/`](nfes_homeworks/) | leden 2022 | Domácí úkoly z kurzu (lekce 14: stránka podle zadání, CSS). |
+| [`nfes_homeworks/`](nfes_homeworks/14/) | leden 2022 | Domácí úkoly z kurzu (lekce 14: stránka podle zadání, CSS). |
 | [`Nfes-N-Final/`](Nfes-N-Final/) | květen 2022 | Závěrečný projekt: web fiktivní firmy pro IT podporu (úvodní stránka a stránka se službami) s vlastním CSS a vertikální šablonou. |
-| [`Barbershop/`](Barbershop/) | květen 2022 | Stránka barbershopu podle grafického návrhu, první práce s CSS frameworkem Tailwind CSS. Postup a obtíže jsou popsané v [README](Barbershop/README.md). |
+| [`Barbershop/`](Barbershop/) | květen 2022 | Stránka barbershopu podle grafického návrhu, první práce s CSS frameworkem Tailwind CSS. Postup a obtíže jsou popsané v [README](https://github.com/timerbaka/nfes/blob/main/Barbershop/README.md). |
 | [`Innovation-cloud/`](Innovation-cloud/) | květen–červen 2022 | Jednostránkový web „Innovation Cloud“ v Tailwind CSS. |
 
 ## Ukázky online
