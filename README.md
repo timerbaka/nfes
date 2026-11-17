@@ -14,6 +14,14 @@ Původně šlo o pět samostatných repozitářů. Spojil jsem je do jednoho, ab
 | [`Barbershop/`](Barbershop/) | květen 2022 | Stránka barbershopu podle grafického návrhu, první práce s CSS frameworkem Tailwind CSS. Postup a obtíže jsou popsané v [README](Barbershop/README.md). |
 | [`Innovation-cloud/`](Innovation-cloud/) | květen–červen 2022 | Jednostránkový web „Innovation Cloud“ v Tailwind CSS. |
 
+## Ukázky online
+
+- [nfes-html-test](https://timerbaka.github.io/nfes/nfes-html-test/)
+- [nfes_homeworks, lekce 14](https://timerbaka.github.io/nfes/nfes_homeworks/14/)
+- [Nfes-N-Final](https://timerbaka.github.io/nfes/Nfes-N-Final/)
+- [Barbershop](https://timerbaka.github.io/nfes/Barbershop/)
+- [Innovation-cloud](https://timerbaka.github.io/nfes/Innovation-cloud/)
+
 ## Kurzy
 
 V Počítačovém centru pro děti a mládež při Univerzitě ITMO jsem absolvoval tři 96hodinové kurzy s nejlepším hodnocením:
